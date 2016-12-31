@@ -9,6 +9,10 @@ Any problems?
 -------------
 The version I built featured a bug where LED D28 was not connected to Vcc as it should. This has been corrected in the schematic, pcb and gebers that I have uploaded.
 
+RV1 can be replaced with a 1M trimmer instead of a 500k trimmer. This gived you the possibility of extra gain.
+
+R54 and R55 can be replaced with 0ohm resistors if you like.
+
 How can I make my own?
 ---------------------
 To create your own board, use the gerber files that are NOT in zip folders. The zip folders contained archived previous versions (potentially containing bugs and sadness).
