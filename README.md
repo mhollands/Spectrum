@@ -9,9 +9,9 @@ Any problems?
 -------------
 The version I built featured a bug where LED D28 was not connected to Vcc as it should. This has been corrected in the schematic, pcb and gebers that I have uploaded.
 
-RV1 can be replaced with a 1M trimmer instead of a 500k trimmer. This gived you the possibility of extra gain.
+RV1 can be replaced with a 1M trimmer instead of a 500k trimmer. This gives you the possibility of extra gain.
 
-R54 and R55 can be replaced with 0ohm resistors if you like.
+R54 and R55 can be replaced with 0ohm resistors if you like. I put them there when I wasn't sure if op amp offset current would be an issue.
 
 How can I make my own?
 ---------------------
