@@ -16,3 +16,9 @@ R54 and R55 can be replaced with 0ohm resistors if you like. I put them there wh
 How can I make my own?
 ---------------------
 To create your own board, use the gerber files that are NOT in zip folders. The zip folders contained archived previous versions (potentially containing bugs and sadness).
+
+Read more at http://projects.matthollands.com/category/spectrum/
+
+![alt text](https://keepdevelopingprojects.files.wordpress.com/2016/10/20161012_180619.jpg)
+![alt text](https://keepdevelopingprojects.files.wordpress.com/2016/10/img_1663.jpg)
+![alt text](https://keepdevelopingprojects.files.wordpress.com/2016/10/img_1662.jpg)
