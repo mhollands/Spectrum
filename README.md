@@ -4,6 +4,8 @@ Spectrum
 See it in [action here](https://www.youtube.com/watch?v=lG2d-PY_e9g&ab_channel=MattHollands)
 ---------------------------------------------------------------------------------------------
 
+Note to self: Check if I used NE5532 or LM358...
+
 What is it?
 -----------
 Over Summer 2016 I built "Spectrum", a 7-channel (entirely analogue) sound-to-light art piece. Spectrum features a microphone and seven columns of LEDs, each indicating the strength of one of seven different audio frequency bands. This is achieved using seven bandpass filters, each followed by a peak detection stage and an LM3914 bar display driver. The finished piece can be placed next to a sound system and adds another dimension to the music.
